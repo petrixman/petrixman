@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Petrix
-- 👀 I’m interested in Game Developing and Video editing
-- 🌱 I’m currently learning Unity and editing AE(i know Davinci Resolve)
-- 💞️ I’m looking to collaborate on whoever wants :)
-- 📫 How to reach me dm me on twitter .
-
-<!---
-tit2/tit2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Game Development and in adding functionality to my favorite software
+- 🌱 Currently learning Unreal Engine, JavaScript, and Python, and also practicing Competitive Programming
+-💻 Currently working on:
+    -🎶 A TIDAL Rich Presence (RPC) integration
+    -⚔️ A Souls-like game in Unreal Engine
+- 💞️ Open to collaboration on cool projects
+- 📫 Reach me on Discord (DMs open!)
