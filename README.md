@@ -5,4 +5,6 @@
     - 🎶 A TIDAL Rich Presence (RPC) integration
     - ⚔️ A Souls-like game in Unreal Engine
 - 💞️ Open to collaboration on cool projects
-- 📫 Reach me on Discord (DMs open!)
+- 📫 Reach me: 
+    - [Discord](https://discordapp.com/users/1205426172830285895)
+
