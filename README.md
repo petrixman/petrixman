@@ -7,4 +7,6 @@
 - 💞️ Open to collaboration on cool projects
 - 📫 Reach me: 
     - [Discord](https://discordapp.com/users/1205426172830285895)
+    - [Email](mailto:petru.mihnea.10@gmail.com)
+
 
